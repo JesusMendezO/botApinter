@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <UserSecretsId>56d36492-8973-488f-9eb6-ab2aeaa5025a</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Bot.Builder.Dialogs" Version="4.11.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.11.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cahuil.Bot.Model\Cahuil.Bot.Model.csproj" />
+    <ProjectReference Include="..\Cahuil.Bot.Service\Cahuil.Bot.Service.csproj" />
+    <ProjectReference Include="..\Microsoft.Bot.Builder.Adapters.Twilio\Microsoft.Bot.Builder.Adapters.ZokoWhatsapp.csproj" />
+  </ItemGroup>
+
+    <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

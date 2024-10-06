@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Microsoft.Bot.Builder.Adapters.ZokoWhatsapp
+build_property.ProjectDir = C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Microsoft.Bot.Builder.Adapters.Twilio\

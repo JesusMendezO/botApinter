@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Raul Gomez\\Documents\\GitHub\\botApinter\\Microsoft.Bot.Builder.Adapters.Twilio\\Microsoft.Bot.Builder.Adapters.ZokoWhatsapp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Raul Gomez\\Documents\\GitHub\\botApinter\\Microsoft.Bot.Builder.Adapters.Twilio\\Microsoft.Bot.Builder.Adapters.ZokoWhatsapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raul Gomez\\Documents\\GitHub\\botApinter\\Microsoft.Bot.Builder.Adapters.Twilio\\Microsoft.Bot.Builder.Adapters.ZokoWhatsapp.csproj",
+        "projectName": "Microsoft.Bot.Builder.Adapters.ZokoWhatsapp",
+        "projectPath": "C:\\Users\\Raul Gomez\\Documents\\GitHub\\botApinter\\Microsoft.Bot.Builder.Adapters.Twilio\\Microsoft.Bot.Builder.Adapters.ZokoWhatsapp.csproj",
+        "packagesPath": "C:\\Users\\Raul Gomez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raul Gomez\\Documents\\GitHub\\botApinter\\Microsoft.Bot.Builder.Adapters.Twilio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Raul Gomez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.Bot.Builder.Integration.AspNet.Core": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.53.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

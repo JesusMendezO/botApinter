@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cahuil.Bot.Data\Cahuil.Bot.Data.csproj" />
+    <ProjectReference Include="..\Cahuil.Bot.Model\Cahuil.Bot.Model.csproj" />
+  </ItemGroup>
+
+</Project>

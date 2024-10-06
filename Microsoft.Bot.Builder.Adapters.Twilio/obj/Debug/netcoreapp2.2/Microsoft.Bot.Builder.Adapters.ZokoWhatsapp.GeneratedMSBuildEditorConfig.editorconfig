@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Microsoft.Bot.Builder.Adapters.ZokoWhatsapp
+build_property.ProjectDir = C:\Users\Raul Gomez\Documents\GitHub\botApinter\Microsoft.Bot.Builder.Adapters.Twilio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

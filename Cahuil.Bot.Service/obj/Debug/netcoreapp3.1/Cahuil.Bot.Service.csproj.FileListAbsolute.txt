@@ -1,0 +1,44 @@
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.deps.json
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.dll
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.pdb
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Data.dll
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Model.dll
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Data.pdb
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Model.pdb
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csprojAssemblyReference.cache
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.AssemblyInfoInputs.cache
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.AssemblyInfo.cs
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csproj.CoreCompileInputs.cache
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csproj.CopyComplete
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.dll
+C:\workspace\source\mobi\Cahuil\Bot\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.pdb
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.deps.json
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.dll
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.pdb
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Data.dll
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Model.dll
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Data.pdb
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Model.pdb
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csproj.AssemblyReference.cache
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.AssemblyInfoInputs.cache
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.AssemblyInfo.cs
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csproj.CoreCompileInputs.cache
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csproj.CopyComplete
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.dll
+C:\workspace\source\mobi\Cahuil\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.pdb
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.deps.json
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.dll
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Service.pdb
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Data.dll
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Model.dll
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Data.pdb
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\bin\Debug\netcoreapp3.1\Cahuil.Bot.Model.pdb
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csproj.AssemblyReference.cache
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.AssemblyInfoInputs.cache
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.AssemblyInfo.cs
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.csproj.CoreCompileInputs.cache
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.B.25EE0ECA.Up2Date
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.dll
+C:\Users\Raul Gomez\Desktop\Ticketera\cahuil-bot-apinter\Cahuil.Bot.Service\obj\Debug\netcoreapp3.1\Cahuil.Bot.Service.pdb
